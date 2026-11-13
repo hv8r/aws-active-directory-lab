@@ -38,3 +38,5 @@ Repository Structure
 --------------------
 * scripts/bulk_user_provisioning.ps1 - Automates Active Directory user creation and OU assignment.
 * docs/security_baselines.md - Documents domain password and workstation GPO settings.
+
+![AWS VPC Configuration](1788375459328.jpg)
